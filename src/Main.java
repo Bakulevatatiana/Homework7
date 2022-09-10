@@ -47,7 +47,6 @@ public class Main {
         for(int i=0;i<2022+100;i++){ if(i%79==0){System.out.println(i);
     }}
 
-
         //Задача 3.2
        for(int j=0; j<11;j++){ System.out.println(j+"+2="+j*2);
         }
