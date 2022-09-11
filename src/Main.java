@@ -20,7 +20,6 @@ public class Main {
             System.out.print(start);
         }
 
-
         //задание 1.3
         int born = 17;
         int dies = 8;
@@ -31,7 +30,6 @@ public class Main {
 
             System.out.println(" Год" + i + " численность населения составляет " + totalPeople);
         }
-
 
         //задание 2.1 и Задача 2.2
         double income = 15000;
